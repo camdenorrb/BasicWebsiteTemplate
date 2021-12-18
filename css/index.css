@@ -1,0 +1,15 @@
+ body {
+    background: black;
+}
+
+p {
+    color: white;
+}
+
+ .montserrat {
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ .center {
+    text-align: center;
+}
